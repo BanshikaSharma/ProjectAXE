@@ -6,7 +6,8 @@ Create a Python script or workflow that automates the analysis of customer data 
 
 
 
-![newplot (7)](https://github.com/user-attachments/assets/657c0429-d531-4820-bddd-2f1294d61d2f)
+
+![newplot (4)](https://github.com/user-attachments/assets/feb511e2-1704-4b75-96d1-604e5b8586d7)
 
 
 
